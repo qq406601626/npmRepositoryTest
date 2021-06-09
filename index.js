@@ -1,0 +1,1 @@
+console.log('this is gs npm repository test project')

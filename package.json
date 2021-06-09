@@ -1,0 +1,20 @@
+{
+  "name": "npmRepositoryTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq406601626/npmRepositoryTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq406601626/npmRepositoryTest/issues"
+  },
+  "homepage": "https://github.com/qq406601626/npmRepositoryTest#readme"
+}
