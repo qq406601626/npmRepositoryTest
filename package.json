@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/qq406601626/npmRepositoryTest/issues"
   },
-  "homepage": "https://github.com/qq406601626/npmRepositoryTest#readme"
+  "homepage": "https://github.com/qq406601626/npmRepositoryTest#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
